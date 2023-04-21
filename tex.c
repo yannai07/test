@@ -1,2 +1,5 @@
-__DBL_HAS_DENORM__
-signed
+#include "stdio.h"
+void main()
+{
+    printf("Hello World!");
+}
