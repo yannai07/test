@@ -1,0 +1,2 @@
+__DBL_HAS_DENORM__
+signed
